@@ -7,7 +7,7 @@
 #' tor_theme()
 
 tor_theme <- function(){
-  ggplot2::theme_set(ggplot2::theme_bw()) +
+  ggplot2::theme_bw() +
   ggplot2::theme(aspect.ratio = 1.1,
                  axis.title = ggplot2::element_text(size = 13),
                  axis.text = ggplot2::element_text(size =13))

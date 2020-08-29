@@ -8,7 +8,7 @@
 
 scale_x_log_eng = function(..., radix=10) {
   scale_x_continuous(...,
-                     trans=log_trans(radix),
+                     trans=scales::log_trans(radix),
                      breaks=log_breaks(TRUE, radix),
                      minor_breaks=log_breaks(F, radix))
 }
