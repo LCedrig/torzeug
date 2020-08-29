@@ -7,7 +7,7 @@
 log_breaks(maj, radix = 10)
 }
 \arguments{
-\item{maj}{Boolean}
+\item{maj}{Boolean, major breaks}
 
 \item{radix}{A number, The radix of the log}
 }

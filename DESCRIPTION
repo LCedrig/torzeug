@@ -8,6 +8,6 @@ License: What license is it under?
 Encoding: UTF-8
 LazyData: true
 Imports:
-  tidyverse,
+  ggplot2,
   scales
 RoxygenNote: 7.1.1

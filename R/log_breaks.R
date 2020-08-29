@@ -3,7 +3,7 @@
 #' This function applies log breaks. It was copied from here:
 #' https://stackoverflow.com/questions/30179442/plotting-minor-breaks-on-a-log-scale-with-ggplot
 #'
-#' @param maj Boolean
+#' @param maj Boolean, major breaks
 #' @param radix A number, The radix of the log
 #'
 #' @examples
