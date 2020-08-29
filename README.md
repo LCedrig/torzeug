@@ -5,5 +5,5 @@ Collection of Auxiliary R Functions which improve general productivity.
 
 The package can be install via github
 ```{r}
-devtools::install_github("lcedrig/torzeug", upgrade_dependencies = FALSE)
+devtools::install_github("LCedrig/torzeug", upgrade_dependencies = FALSE)
 ```
